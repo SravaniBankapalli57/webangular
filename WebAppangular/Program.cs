@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebAppangular.MODELS;
-using System.Data.SqlClient;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
